@@ -1,0 +1,10 @@
+name: sentimentanalysis
+title:
+username:
+account: ghoshark
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 343188
+bundleId: 1374923
+url: https://ghoshark.shinyapps.io/sentimentanalysis/
+when: 1526393523.62726
